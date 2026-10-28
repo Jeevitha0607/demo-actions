@@ -36,6 +36,6 @@ jobs:
           echo test, and deploy your project.
 
       - name: display date
-        run: echo date
+        run: date
 
           
